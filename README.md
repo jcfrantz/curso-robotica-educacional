@@ -3,8 +3,8 @@
 # 🤖 Robótica Educacional com Arduino
 ### Prof. Dr. Julio Cesar Frantz — Dr. da Robótica
 
-[![YouTube](https://img.shields.io/badge/YouTube-Dr.%20da%20Rob%C3%B3tica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@drdaRobotica)
-[![Instagram](https://img.shields.io/badge/Instagram-@drdaRobotica-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drdaRobotica)
+[![YouTube](https://img.shields.io/badge/YouTube-Dr.%20da%20Rob%C3%B3tica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@doutordaRobotica)
+[![Instagram](https://img.shields.io/badge/Instagram-@drdaRobotica-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doutordaRobotica)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juliofrantz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliofrantz)
 [![License: MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-22c55e?style=for-the-badge)](LICENSE)
 
@@ -54,10 +54,10 @@ Os projetos seguem uma sequência intencional de conceitos, construindo conhecim
 
 | # | Projeto | Conceitos ensinados | Vídeo |
 |---|---------|--------------------|----|
-| 01 | Semáforo básico | `pinMode`, `digitalWrite`, `delay` | [▶ assistir](https://www.youtube.com/@drdaRobotica) |
-| 02 | Semáforo com variáveis | `int`, variável global, legibilidade de código | [▶ assistir](https://www.youtube.com/@drdaRobotica) |
-| 03 | Modo noturno | `if`, operador `!`, variável de controle | [▶ assistir](https://www.youtube.com/@drdaRobotica) |
-| 04 | Botão + LED | `bool`, `digitalRead`, `INPUT_PULLUP`, debounce | [▶ assistir](https://www.youtube.com/@drdaRobotica) |
+| 01 | Semáforo básico | `pinMode`, `digitalWrite`, `delay` | [▶ assistir](https://www.youtube.com/@doutordaRobotica) |
+| 02 | Semáforo com variáveis | `int`, variável global, legibilidade de código | [▶ assistir](https://www.youtube.com/@doutordaRobotica) |
+| 03 | Modo noturno | `if`, operador `!`, variável de controle | [▶ assistir](https://www.youtube.com/@doutordaRobotica) |
+| 04 | Botão + LED | `bool`, `digitalRead`, `INPUT_PULLUP`, debounce | [▶ assistir](https://www.youtube.com/@doutordaRobotica) |
 
 ---
 
@@ -80,7 +80,7 @@ Todos os projetos deste repositório utilizam componentes de baixo custo e fáci
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/juliofrantz/robotica-educacional-arduino.git
+git clone https://github.com/jcfrantz/robotica-educacional-arduino.git
 ```
 
 ### 2. Abrir no Arduino IDE
@@ -168,7 +168,7 @@ Professor de Engenharia Mecânica · UNIFEBE & UNIVALI
 Pesquisador · UFSC/GEAR · Pós-Doutorado  
 Fundador · Laboratório de Inventores  
 
-[![YouTube](https://img.shields.io/badge/▶-Assistir%20no%20YouTube-FF0000?style=flat-square)](https://www.youtube.com/@drdaRobotica)
-[![GitHub](https://img.shields.io/badge/★-Dar%20uma%20estrela-181717?style=flat-square&logo=github)](https://github.com/juliofrantz)
+[![YouTube](https://img.shields.io/badge/▶-Assistir%20no%20YouTube-FF0000?style=flat-square)](https://www.youtube.com/@doutordaRobotica)
+[![GitHub](https://img.shields.io/badge/★-Dar%20uma%20estrela-181717?style=flat-square&logo=github)](https://github.com/jcfrantz)
 
 </div>
